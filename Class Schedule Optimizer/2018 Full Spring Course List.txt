@@ -1,0 +1,68 @@
+BUAD 200,Economic Foundations for Business,2
+14485,Lecture,T,8:00 AM,110
+-
+CSCI 201,Principles of Software Development,4
+29909,Lecture,TTh,9:30,110
+30254,Lecture,TTh,11:00,110
+30303,Lecture,TTh,8:00,110
+30385,Lab,W,4:00 PM,110
+30396,Lab,T,6:00 PM,110
+29904,Lab,W,6:00 PM,110
+30134,Lab,T,4:00 PM,110
+30237,Lab,T,2:00 PM,110
+30238,Lab,W,12:00 PM,110
+30239,Lab,W,10:00 AM,110
+30241,Lab,T,6:00 PM,110
+-
+CSCI 270,Introduction to Algorithms and Theory of Computing,4
+29960,Lecture,TTh,12:30 PM,80
+29961,Lecture,TTh,9:30 AM,80
+30109,Lecture,MW,10:00 AM,80
+30361,Discussion,F,10:00 AM,110
+30362,Discussion,F,12:00 PM,110
+30029,Quiz,F,7:00 PM,110
+-
+CSCI 356,Introduction to Computer Systems,4
+29962,Lecture,TTh,2:30 PM,80
+30124,Discussion,F,10:00 AM,110
+30124,Discussion,F,12:00 PM,110
+-
+CSCI 360,Introduction to Artificial Intelligence,4
+30031,Lecture,MW,3:30 PM,110
+30043,Lecture,MW,5:30 PM,110
+29983,Quiz,T,6:00 PM,110
+-
+MATH 407,Probability Theory,4
+39625,Lecture,MWF,9:00 AM,50
+39626,Discussion,TTh,8:00 AM,50
+39627,Discussion,TTh,9:00 AM,50
+39629,Lecture,MWF,10:00 AM,50
+39630,Discussion,TTh,10:00 AM,50
+39631,Discussion,TTh,11:00 AM,50
+39632,Lecture,MWF,11:00 AM,50
+39633,Discussion,TTh,2:00 PM,50
+39634,Discussion,TTh,3:00 PM,50
+-
+WRIT 340,Advanced Writing,3
+66800,Lecture,MWF,9:00 AM,50
+66802,Lecture,TTh,8:00 AM,80
+66804,Lecture,TTh,9:30 AM,80
+66806,Lecture,MWF,10:00 AM,50
+66808,Lecture,MWF,11:00 AM,50
+66810,Lecture,TTh,11:00 AM,80
+66812,Lecture,MWF,12:00 PM,50
+66814,Lecture,TTh,12:30 PM,80
+66816,Lecture,MW,2:00 PM,80
+66818,Lecture,MW,2:00 PM,80
+66820,Lecture,TTh,2:00 PM,80
+66822,Lecture,TTh,2:00 PM,80
+66824,Lecture,MW,3:30 PM,80
+66826,Lecture,MW,3:30 PM,80
+66828,Lecture,TTh,3:30 PM,80
+66830,Lecture,TTh,5:00 PM,80
+66832,Lecture,TTh,3:30 PM,80
+66836,Lecture,MW,5:00 PM,80
+66838,Lecture,MW,5:00 PM,80
+66840,Lecture,TTh,5:00 PM,80
+66842,Lecture,TTh,6:00 PM,80
+-
